@@ -1,0 +1,28 @@
+name: Thefirstsite
+favicon: null
+layout_spectrum: 0.41553547885268927
+typography_spectrum: 0.08593463432043791
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1729786864016205
+  lightness: 0.7711531955283135
+  saturation: 0.24808404012583196
+  rhythmicContrast: 0.33321911632083356
+purpose: []
